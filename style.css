@@ -1,0 +1,29 @@
+div {
+    background:  #4976BF;
+    color: azure;
+    text-align: center;
+}
+
+.rowCustom {
+    height: 200px;
+}
+
+.rowCustom1 {
+    height: 100px;
+}
+
+.rowCustom2 {
+    height: 100px;
+}
+
+.title {
+    height: 20%;
+}
+
+.Buy-box {
+    height: 80%;
+}
+
+.col {
+    border: 2px solid whitesmoke;
+}
